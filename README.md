@@ -1,2 +1,2 @@
-# mikrotik-commit-confirm
-Mikrotik's commit confirm(junos) like  implementation
+# mikrotik-commitconfirmed
+Mikrotik's commit confirmed(junos) like  implementation
